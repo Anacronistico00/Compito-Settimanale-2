@@ -149,6 +149,9 @@ while (numericArray[i] !== 32) {
   console.log(numericArray[i]);
   i++;
 }
+console.log(numericArray[i]);
+
+console.log('Il ciclo si è fermato al numero 32');
 
 /* ESERCIZIO 10
     Partendo dall'array fornito e utilizzando un costrutto switch, genera un nuovo array composto dalle posizioni di ogni carattere all'interno
