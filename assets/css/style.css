@@ -31,12 +31,20 @@ footer {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 ul, 
 #headSection,
 #headTitle,
 a:link,
 a:visited {
     color: white;
+}
+
+a:hover {
+    color: yellowgreen;
 }
 
 ul,
@@ -96,7 +104,7 @@ main {
 
  }
 
- .headParagraph span {
+ .headParagraph a {
     color: #045563;
     font-size: 0.7em;
     font-weight: bold;
@@ -113,6 +121,7 @@ main {
     height: 25vw;
     border-radius: 20px;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+    margin-bottom: 10px;
 }
 
 .imgMargin {
