@@ -112,7 +112,7 @@ main {
     width: 21vw;
     height: 25vw;
     border-radius: 20px;
-    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.322);
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img2,
