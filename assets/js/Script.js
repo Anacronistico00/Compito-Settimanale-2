@@ -159,7 +159,6 @@ while (numericArray[i] !== 32) {
 console.log('----------ESERCIZIO 10----------');
 
 const charactersArray = ['r', 'f', 'd', 't', 'a'];
-const alphabet = 'abcdefghilmnopqrstuvz';
 
 const positionArray = [];
 
