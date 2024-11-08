@@ -115,9 +115,7 @@ main {
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
 }
 
-.img2,
-.img3,
-.img4 {
+.imgMargin {
     margin-left: 30px;
 }
 
